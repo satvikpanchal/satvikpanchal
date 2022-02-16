@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @satvikpanchal
-- 👀 I’m interested in AI, fullstack development.
+- 👀 I’m interested in AI, machine learning, cloud computing, and fullstack development.
 - 🌱 I’m currently learning Java, Python, and Assembly Language.
 - 💞️ I’m looking to collaborate on open source projects and startups
 - 📫 How to reach me Email: panchalsatvik@gmail.com
