@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Satvik!
 - 👀 I’m interested in AI, machine learning, cloud computing, and data engineering.
 - 🌱 I’m currently learning AI.
-- 💞️ I’m looking to collaborate on open source projects and startups.
+- 😎 I’m looking to collaborate on open source projects and startups.
 - 📫 How to reach me Email: panchalsatvik@gmail.com
 
 <!---
