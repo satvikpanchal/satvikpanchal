@@ -4,7 +4,7 @@
 <!-- Animated typing effect -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F700&center=true&vCenter=true&width=750&lines=I+am+Satvik!+👋;AI+Engineer;Machine+Learning+Engineer;Mentor+%26+Leader;Cloud+Engineer;Open+Source+Contributor;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F700&center=true&vCenter=true&width=750&lines=I+am+Satvik!+👋;AI+Engineer;Machine+Learning+Engineer;Mentor+%26+Leader;Cloud+Engineer;Always+Learning)](https://git.io/typing-svg)
 </div>
 
 ---
