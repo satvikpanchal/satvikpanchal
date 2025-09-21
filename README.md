@@ -54,7 +54,7 @@ Here are some tools & technologies I work with:
 - 🔭 Working on: **AI Agents & ML Systems**  
 - 🌱 Learning: **Agentic AI**  
 - 💡 Exploring: **Startup ideas in AI infra**  
-- 🎯 Goal: **Build impactful AI-driven systems that scale**  
+- 🎯 Goal: **Build impactful AI-driven systems that scale and pursue a PhD**  
 
 ---
 
